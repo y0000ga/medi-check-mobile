@@ -1,6 +1,6 @@
-# Medi Check Frontend
+# Medi Check Mobile
 
-Medi Check Frontend 是一個使用 Expo + React Native + Expo Router 開發的行動端前端專案，提供病人、藥品、提醒排程、服藥紀錄與照護邀請管理功能。
+Medi Check Mobile 是一個使用 Expo + React Native + Expo Router 開發的行動端前端專案，提供病人、藥品、提醒排程、服藥紀錄與照護邀請管理功能。
 
 ## Tech Stack
 
